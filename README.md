@@ -13,4 +13,4 @@ Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *Horizon II*
 
-<img src="Images/HorizonGhostty.png" width="750" height="522.5" />
+<img src="Images/HorizonGhostty.png" width="764.5" height="376.5" />
