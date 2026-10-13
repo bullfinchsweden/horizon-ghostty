@@ -3,7 +3,7 @@ My own custom made Horizon color scheme for Ghostty.
 
 <img src="Images/Ghostty.jpg"><br/>
 
-* [Micro text editor](https://micro-editor.github.io/)
+* [Ghostty for macOS and Linux](https://ghostty.org/)
 
 * [Horizon for VS Code](https://horizontheme.netlify.app/)<br/>
 
