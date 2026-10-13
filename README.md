@@ -1,7 +1,7 @@
 # Horizon | Ghostty
 My own custom made Horizon color scheme for Ghostty.
 
-<img src="Images/Micro.jpg"><br/>
+<img src="Images/Ghostty.jpg"><br/>
 
 * [Micro text editor](https://micro-editor.github.io/)
 
