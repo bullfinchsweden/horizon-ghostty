@@ -9,4 +9,8 @@ My own custom made Horizon color scheme for Ghostty.
 
 <img src="Images/Horizon.jpg" width="768" height="320" /><br/>
 
+Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
+
+*Horizon II*
+
 <img src="Images/HorizonGhostty.png" width="750" height="522.5" />
